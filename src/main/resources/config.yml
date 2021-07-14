@@ -1,0 +1,7 @@
+hopperFilterName: "Hopper Filter"
+hopperSizes:
+  default: 7
+  member: 15
+  vip: 30
+enableHopperBreakProtection: true
+

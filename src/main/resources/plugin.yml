@@ -1,0 +1,4 @@
+name: Hopperfilter
+version: ${project.version}
+main: org.cathal02.hopperfilter.HopperFilter
+api-version: 1.13
